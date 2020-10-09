@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 1.3em;
+  color: #000;
+}
+
+.page-header {
+  padding: 1em;
+  background: #dddddd;
+}
+
+.page-header h1 {
+  margin: 0;
+}
